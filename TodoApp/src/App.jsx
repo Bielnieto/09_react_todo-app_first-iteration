@@ -7,7 +7,7 @@ function App() {
   
   return (
     <>
-      <Header title="TodoApp"/>
+      <Header/>
       <Subheader subtitle="Todo List Manager"/>
       <ListHeader content="Todo List"/>
     </>
